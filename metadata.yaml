@@ -1,0 +1,28 @@
+_repo: Historical-Record-of-the-Third-or-Prince-of-Wales-Regiment-of-Dragoon-Guards-Containing-an-Ac__52249
+_version: 0.0.1
+alternative_title: Historical record of the 3rd Dragoon Guards
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2016-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52249'
+  lccn: '82141691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Regiment of Dragoon Guards, 3rd'
+- !lcc 'UA'
+- GITenberg
+title: "Historical Record of the Third, or Prince of Wales' Regiment of Dragoon Guards\r\
+  \nContaining an Account of the Formation of the Regiment in 1685, and of Its Subsequent\
+  \ Services to 1838"
+url: http://www.gutenberg.org/ebooks/52249
